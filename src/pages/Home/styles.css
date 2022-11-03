@@ -1,0 +1,7 @@
+.amplify-component{
+    display: flex;
+    flex-direction: column;
+    background-color: red;
+    max-width: 500px;
+    align-items: center;
+}
